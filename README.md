@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @altamircarvalhoneto
 - 👀 I’m interested in develop salesforce, java and javascriptslanguages
 - 🌱 I’m currently learning about this languages
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me altamircarvalhoneto@gmail.com
 
 <!---
